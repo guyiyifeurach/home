@@ -1,0 +1,8 @@
+#include<iostream>
+
+using namespace std;
+int main()
+{
+    cout << "Then,the game has come!" << endl;
+    return 0;
+}
